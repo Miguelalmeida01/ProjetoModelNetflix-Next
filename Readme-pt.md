@@ -54,7 +54,11 @@ a api.
 ## Projeto na web
  
 
-https://github.com/user-attachments/assets/d2f4c542-df5f-41d0-99b0-afb1918669ab
+
+
+https://github.com/user-attachments/assets/26d47795-a581-4f74-ba63-9aa5f866a142
+
+
 
 
 
